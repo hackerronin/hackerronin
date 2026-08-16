@@ -5,7 +5,7 @@
     <img src="https://github.com/l1ackerronin/l1ackerronin/blob/main/ronin.jpg?raw=true" width="140" style="border-radius: 50%;" alt="Nishan FaiyaZ"/>
   </a>
 
-  <h1 align="center">Hi There, I'm <a href="https://github.com/l1ackerronin" target="_blank">Md Nahid Alam Aka Ronin</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px"></h1>
+  <h1 align="center">Hi There, I'm <a href="https://github.com/hackerronin" target="_blank">Md Nahid Alam Aka Ronin</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px"></h1>
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -16,19 +16,19 @@
 
   <!-- Social Links -->
   <p align="center">
-    <a href="https://facebook.com/l1ackerronin">
+    <a href="https://facebook.com/hackerronin">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://x.com/l1ackerronin">
+    <a href="https://x.com/hackerronin">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
     </a>
-    <a href="https://instagram.com/l1ackerronin">
+    <a href="https://instagram.com/hackerronin">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://linkedin.com/in/l1ackerronin">
+    <a href="https://linkedin.com/in/hackerronin">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:l1ackerronin@gmail.com">
+    <a href="mailto:nahid@prohorix.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
