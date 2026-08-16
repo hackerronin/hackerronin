@@ -3,9 +3,9 @@
 
 <div align="center">
 
-  <!-- Profile Picture with Border -->
-  <a href="https://github.com/l1ackerronin">
-    <img src="https://github.com/l1ackerronin/l1ackerronin/blob/main/ronin.jpg?raw=true" width="170" style="border-radius: 50%; border: 4px solid #33E65B; box-shadow: 0 0 20px #33E65B;" alt="Md Nahid Alam"/>
+  <!-- Profile Picture with Glow -->
+  <a href="https://github.com/hackerronin">
+    <img src="https://github.com/hackerronin/hackerronin/blob/main/ronin.jpg?raw=true" width="170" style="border-radius: 50%; border: 4px solid #33E65B; box-shadow: 0 0 25px #33E65B;" alt="Md Nahid Alam"/>
   </a>
 
   <h1 align="center">
@@ -20,27 +20,27 @@
 
   <br><br>
 
-  <!-- Social Links - Modern Badges -->
+  <!-- Social Links - Custom Styled Badges -->
   <p align="center">
     <a href="https://facebook.com/hackerronin" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
     </a>
     <a href="https://x.com/hackerronin" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
     </a>
     <a href="https://instagram.com/hackerronin" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
     </a>
     <a href="https://linkedin.com/in/hackerronin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
     </a>
     <a href="mailto:l1ackerronin@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
     </a>
   </p>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=l1ackerronin&label=Profile%20Views&color=33E65B&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hackerronin&label=Profile%20Views&color=33E65B&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -102,7 +102,7 @@ mission: "Hack the Planet, Secure the Future 🛡️"
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=l1ackerronin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerronin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
 
   <br><br>
 
@@ -110,10 +110,10 @@ mission: "Hack the Planet, Secure the Future 🛡️"
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=l1ackerronin&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33E65B&icon_color=33E65B&text_color=c9d1d9&rank_icon=github" width="100%" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=hackerronin&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33E65B&icon_color=33E65B&text_color=c9d1d9&rank_icon=github" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1ackerronin&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33E65B&text_color=c9d1d9&langs_count=10" width="100%" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerronin&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33E65B&text_color=c9d1d9&langs_count=10" width="100%" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -121,12 +121,12 @@ mission: "Hack the Planet, Secure the Future 🛡️"
   <br>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=l1ackerronin&theme=algolia&hide_border=true&background=0d1117&stroke=33E65B&ring=33E65B&fire=FF6F00&currStreakLabel=33E65B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="70%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=hackerronin&theme=algolia&hide_border=true&background=0d1117&stroke=33E65B&ring=33E65B&fire=FF6F00&currStreakLabel=33E65B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="70%" alt="Streak Stats"/>
 
   <br><br>
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l1ackerronin&theme=react-dark&hide_border=true&bg_color=0d1117&color=33E65B&line=33E65B&point=FF6F00" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackerronin&theme=react-dark&hide_border=true&bg_color=0d1117&color=33E65B&line=33E65B&point=FF6F00" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -138,7 +138,7 @@ mission: "Hack the Planet, Secure the Future 🛡️"
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/l1ackerronin/l1ackerronin/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/hackerronin/hackerronin/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 
 </div>
 
