@@ -9,7 +9,7 @@
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33E65B&center=true&vCenter=true&width=550&lines=Independent+Security+Researcher;Bug+Hunter+%7C+Pentester;Web+%26+Android+Developer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33E65B&center=true&vCenter=true&width=550&lines=Independent+Security+Researcher;Bug+Hunter+%7C+Pentester;Web+%26+Mobile+Developer;AI+Enthusiast+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
   
   <br>
