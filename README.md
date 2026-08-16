@@ -5,7 +5,7 @@
     <img src="https://github.com/l1ackerronin/l1ackerronin/blob/main/ronin.jpg?raw=true" width="140" style="border-radius: 50%;" alt="Nishan FaiyaZ"/>
   </a>
 
-  <h1 align="center">Hi There, I'm <a href="https://github.com/l1ackerronin" target="_blank">Nishan FaiyaZ</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px"></h1>
+  <h1 align="center">Hi There, I'm <a href="https://github.com/l1ackerronin" target="_blank">Md Nahid Alam Aka Ronin</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px"></h1>
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
